@@ -1,19 +1,10 @@
-<img src="images/seraphbanner.jpg">
-  <p align="center">
-    seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
-    <br/>
-    <a href="https://seraph.reveriestudios.online/">view demo</a>
-    ·
-    <a href="https://github.com/a456pur/seraph/issues/new/choose">report issues / request feature</a>
-    ·
-    <a href="https://discord.gg/ZyZDmx3zuQ">discord</a>
-    <br>
-    <br>
-    <img src="https://img.shields.io/github/repo-size/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/stars/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/forks/a456pur/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
-  </p>
-
+## Plans to add
+- **Animal Crossing New Leaf**
+- **Yo Kai Watch 2**
+- **CITRA VERY IMPORTANT**
+- **GTA Chinatown Wars**
+- **MAYBE GAMECUBE STUFF**
+- **if gamecube, Sunshine, Melee, and Windwaker**
 ## features
 - **350+ games:** no embedding, no workarounds - games ranging from unity to flash to emulators and more!
 - **10+ apps:** a dedicated area hosting apps, ranging from useful utilities to fun web engine showcases
