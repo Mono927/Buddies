@@ -4,6 +4,7 @@
 - **CITRA VERY IMPORTANT**
 - **GTA Chinatown Wars**
 - **MAYBE GAMECUBE STUFF**
+- **Pou**
 - **if gamecube, Sunshine, Melee, and Windwaker**
 ## features
 - **350+ games:** no embedding, no workarounds - games ranging from unity to flash to emulators and more!
